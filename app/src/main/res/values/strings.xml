@@ -1,0 +1,83 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Disney Quizz</string>
+    <!-- 1st question -->
+    <string name="question1">1. How many titans Hades released in the film Hercules?</string>
+    <!-- Answer options to the 1st question -->
+    <string name="question1_answer1">2</string>
+    <string name="question1_answer2">3</string>
+    <string name="question1_answer3">5</string>
+    <string name="question1_answer4">4</string>
+
+    <!-- 2nd question -->
+    <string name="question2">2. Who was the only bad character of Disney who sang a duet with a female protagonists</string>
+    <!-- Answer options to the 2nd question -->
+    <string name="question2_answer1">Hades</string>
+    <string name="question2_answer2">Hans</string>
+    <string name="question2_answer3">Jafar</string>
+    <string name="question2_answer4">Rasputin</string>
+
+    <!-- 3d question -->
+    <string name="question3">3. What is the name of the Reggae singing Caribbean crab in the Little Mermaid </string>
+
+    <!-- 4th question -->
+    <string name="question4">4. What was the name of the Sleeping Beauty?</string>
+    <!-- Answer options to the 4th question -->
+    <string name="question4_answer1">Aurora</string>
+    <string name="question4_answer2">Tiana</string>
+    <string name="question4_answer3">Bell</string>
+    <string name="question4_answer4">Sarlot</string>
+
+    <!-- 5th question -->
+    <string name="question5">5. How many nephews has Donald Duck ?</string>
+    <!-- Answer options to the 5th question -->
+
+    <!-- 6th question -->
+    <string name="question6">6. What famous actor embodies the voice of genie in the movie Aladdin?</string>
+    <!-- Answer options to the 6th question -->
+    <string name="question6_answer1">Mel Gibson</string>
+    <string name="question6_answer2">Robbie Williams</string>
+    <string name="question6_answer3">Eddie Murphy</string>
+    <string name="question6_answer4">Robby Benson</string>
+
+    <!-- 7th question -->
+    <string name="question7">7. What  relationship had Mussau and Mulan in movie "Mulan" ?</string>
+    <!-- Answer options to the 7th question -->
+    <string name="question7_answer1">He was her pet</string>
+    <string name="question7_answer2">He was a legendary beast</string>
+    <string name="question7_answer3">He was one of the protectors of the family</string>
+    <string name="question7_answer4">At the beginning they were strangers to each other</string>
+
+    <!-- 8th question -->
+    <string name="question8">8. What phrase saved Tinkerbell from dying ?</string>
+    <!-- Answer options to the 7th question -->
+    <string name="question8_answer1">I believe in fairies</string>
+    <string name="question8_answer2">I believe in Tinkerbell</string>
+    <string name="question8_answer3">I believe in the Neverland</string>
+    <string name="question8_answer4">I believe in Peter Pan</string>
+
+    <!-- 9th question -->
+    <string name="question9">9. In what transformed Kusko in movie "The Emperor's New Groove" ?</string>
+    <!-- Answer options to the 7th question -->
+    <string name="question9_answer1">A lama</string>
+    <string name="question9_answer2">A dog</string>
+    <string name="question9_answer3">A lion</string>
+    <string name="question9_answer4">A camel</string>
+
+    <!-- 10th question -->
+    <string name="question10">10. In movie "Anastasia"  what Anastasia showed her grandmother to believe that she is the lost princess ?</string>
+    <!-- Answer options to the 7th question -->
+    <string name="question10_answer1">A medallion</string>
+    <string name="question10_answer2">A photo</string>
+    <string name="question10_answer3">A music box</string>
+    <string name="question10_answer4">A pendant</string>
+
+    <!-- Submit button to submit answers and get scores -->
+    <string name="submit">Show results</string>
+    <!-- Reset button to delete all answers and restart the test -->
+    <string name="reset">Reset</string>
+
+    <!-- Toast messages -->
+    <string name="result_message">AWESOME! All your answers were correct, you are a true Disney fan!</string>
+    <string name="score_message">You got "<xliff:g example="2" id="score">%d</xliff:g> correct out of 10. Try again!</string>
+
+</resources>
